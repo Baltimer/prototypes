@@ -1,0 +1,20 @@
+{
+  "name": "selectclass",
+  "version": "1.0.0",
+  "description": "Styling a simple class select",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass -w scss/main.scss -o css"
+  },
+  "keywords": [
+    "styling",
+    "markup",
+    "design"
+  ],
+  "author": "Baltimer",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
